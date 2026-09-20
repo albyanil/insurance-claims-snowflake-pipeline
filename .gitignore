@@ -1,0 +1,15 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Power BI temporary files
+~$*.pbix
+
+# Environment / secrets
+.env
+*.key
+*.pem
