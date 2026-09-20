@@ -1,0 +1,22 @@
+customer_id,customer_name,date_of_birth,gender,city,state,registration_date
+C001,Arun Kumar,1990-05-14,Male,Palakkad,Kerala,2023-01-15
+C002,Anita Thomas,1988-11-22,Female,Kochi,Kerala,2023-02-03
+C003,Rahul Menon,1995-07-09,Male,Thrissur,Kerala,2023-03-18
+C004,Meera Nair,1992-01-30,Female,Kozhikode,Kerala,2023-04-11
+C005,Vivek Shah,1985-09-17,Male,Mumbai,Maharashtra,2023-05-20
+C006,Priya Iyer,1998-12-05,Female,Chennai,Tamil Nadu,2023-06-08
+C007,Sanjay Rao,1987-03-25,Male,Bengaluru,Karnataka,2023-07-12
+C008,Neha Verma,1993-08-16,Female,Delhi,Delhi,2023-08-01
+C009,Joseph Mathew,1979-10-03,Male,Kottayam,Kerala,2023-08-19
+C010,Lakshmi Das,1991-06-28,Female,Coimbatore,Tamil Nadu,2023-09-07
+C011,Rakesh Pillai,1984-02-13,Male,Alappuzha,Kerala,2023-10-14
+C012,Divya Krishnan,1996-04-21,Female,Ernakulam,Kerala,2023-11-02
+C013,Mohammed Salim,1989-12-12,Male,Malappuram,Kerala,2023-11-23
+C014,Sneha Kapoor,1994-09-08,Female,Pune,Maharashtra,2023-12-10
+C015,Akhil George,1982-05-31,Male,Kannur,Kerala,2024-01-16
+C005,Vivek Shah,1985-09-17,Male,Mumbai,Maharashtra,2023-05-20
+C016,Nisha,1990-02-18,Female,Kollam,Kerala,2024-02-05
+C017,Thomas Paul,1986-07-27,Male,,Kerala,2024-02-21
+C018,Kavya Suresh,1997-11-11,Female,Bengaluru,Karnataka,2024-03-09
+C019,Amit Joshi,1983-01-19,Male,Hyderabad,Telangana,2024-03-25
+C020,Fathima Ali,1993-05-06,Female,Kozhikode,Kerala,2024-04-12
